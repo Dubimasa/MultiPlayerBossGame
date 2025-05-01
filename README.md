@@ -13,15 +13,14 @@ Le jeu se lance via **un unique exécutable** permettant d'accéder aux deux mod
 
 ### ✅ Étapes :
 
-1. Téléchargez l’archive `.zip` contenant le jeu.
-2. Extrayez le contenu dans un dossier.
-3. Lancez le fichier :
+1. Téléchargez l'éxecutable `.zip` contenant le jeu.
+2. Lancez le fichier :
 
    - `Battle_Boss_Multiplayer.exe` (Windows)
 
-4. Dans le menu du jeu, choisissez :
-   - **Mode Construction** : pour créer un boss.
-   - **Mode Multijoueur** : pour héberger ou rejoindre une partie.
+3. Dans le menu du jeu, choisissez :
+   - **Boss Editor** : pour créer un boss.
+   - **Mode Multijoueur (EN cours de devellopement)** : pour héberger ou rejoindre une partie.
 
 ---
 
