@@ -13,7 +13,7 @@ Le jeu se lance via **un unique exécutable** permettant d'accéder aux deux mod
 
 ### ✅ Étapes :
 
-1. Téléchargez l'éxecutable `.zip` contenant le jeu.
+1. Téléchargez l'éxecutable `Battle_Boss_Multiplayer.exe` contenant le jeu.
 2. Lancez le fichier :
 
    - `Battle_Boss_Multiplayer.exe` (Windows)
